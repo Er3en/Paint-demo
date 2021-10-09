@@ -1,0 +1,12 @@
+C:\Users\minex\OneDrive\Pulpit\SEM4\Infa C#\LAB_10\WindowsFormsApp1\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\minex\OneDrive\Pulpit\SEM4\Infa C#\LAB_10\WindowsFormsApp1\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\minex\OneDrive\Pulpit\SEM4\Infa C#\LAB_10\WindowsFormsApp1\ClassLibrary2\obj\Debug\ClassLibrary2.csprojAssemblyReference.cache
+C:\Users\minex\OneDrive\Pulpit\SEM4\Infa C#\LAB_10\WindowsFormsApp1\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\minex\OneDrive\Pulpit\SEM4\Infa C#\LAB_10\WindowsFormsApp1\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\minex\OneDrive\Pulpit\SEM4\Infa C#\LAB_10\WindowsFormsApp1\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\minex\Desktop\Studia\SEM4\Laptop  syf SEM4\Infa C#\LAB_10\WindowsFormsApp1\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\minex\Desktop\Studia\SEM4\Laptop  syf SEM4\Infa C#\LAB_10\WindowsFormsApp1\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\minex\Desktop\Studia\SEM4\Laptop  syf SEM4\Infa C#\LAB_10\WindowsFormsApp1\ClassLibrary2\obj\Debug\ClassLibrary2.csprojAssemblyReference.cache
+C:\Users\minex\Desktop\Studia\SEM4\Laptop  syf SEM4\Infa C#\LAB_10\WindowsFormsApp1\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\minex\Desktop\Studia\SEM4\Laptop  syf SEM4\Infa C#\LAB_10\WindowsFormsApp1\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\minex\Desktop\Studia\SEM4\Laptop  syf SEM4\Infa C#\LAB_10\WindowsFormsApp1\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

@@ -1,0 +1,6 @@
+C:\Users\minex\OneDrive\Pulpit\SEM4\Infa C#\LAB_10\WindowsFormsApp1\MojaDDL\bin\Debug\MojaDDL.dll
+C:\Users\minex\OneDrive\Pulpit\SEM4\Infa C#\LAB_10\WindowsFormsApp1\MojaDDL\bin\Debug\MojaDDL.pdb
+C:\Users\minex\OneDrive\Pulpit\SEM4\Infa C#\LAB_10\WindowsFormsApp1\MojaDDL\obj\Debug\MojaDDL.csprojAssemblyReference.cache
+C:\Users\minex\OneDrive\Pulpit\SEM4\Infa C#\LAB_10\WindowsFormsApp1\MojaDDL\obj\Debug\MojaDDL.csproj.CoreCompileInputs.cache
+C:\Users\minex\OneDrive\Pulpit\SEM4\Infa C#\LAB_10\WindowsFormsApp1\MojaDDL\obj\Debug\MojaDDL.dll
+C:\Users\minex\OneDrive\Pulpit\SEM4\Infa C#\LAB_10\WindowsFormsApp1\MojaDDL\obj\Debug\MojaDDL.pdb

@@ -1,0 +1,26 @@
+C:\Users\minex\OneDrive\Pulpit\SEM4\Infa C#\LAB_10\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\minex\OneDrive\Pulpit\SEM4\Infa C#\LAB_10\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\minex\OneDrive\Pulpit\SEM4\Infa C#\LAB_10\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\minex\OneDrive\Pulpit\SEM4\Infa C#\LAB_10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\minex\OneDrive\Pulpit\SEM4\Infa C#\LAB_10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\minex\OneDrive\Pulpit\SEM4\Infa C#\LAB_10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\minex\OneDrive\Pulpit\SEM4\Infa C#\LAB_10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\minex\OneDrive\Pulpit\SEM4\Infa C#\LAB_10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\minex\OneDrive\Pulpit\SEM4\Infa C#\LAB_10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\minex\OneDrive\Pulpit\SEM4\Infa C#\LAB_10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\minex\OneDrive\Pulpit\SEM4\Infa C#\LAB_10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\minex\OneDrive\Pulpit\SEM4\Infa C#\LAB_10\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ClassLibrary2.dll
+C:\Users\minex\OneDrive\Pulpit\SEM4\Infa C#\LAB_10\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ClassLibrary2.pdb
+C:\Users\minex\Desktop\Studia\SEM4\Laptop  syf SEM4\Infa C#\LAB_10\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\minex\Desktop\Studia\SEM4\Laptop  syf SEM4\Infa C#\LAB_10\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\minex\Desktop\Studia\SEM4\Laptop  syf SEM4\Infa C#\LAB_10\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\minex\Desktop\Studia\SEM4\Laptop  syf SEM4\Infa C#\LAB_10\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ClassLibrary2.dll
+C:\Users\minex\Desktop\Studia\SEM4\Laptop  syf SEM4\Infa C#\LAB_10\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ClassLibrary2.pdb
+C:\Users\minex\Desktop\Studia\SEM4\Laptop  syf SEM4\Infa C#\LAB_10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\minex\Desktop\Studia\SEM4\Laptop  syf SEM4\Infa C#\LAB_10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\minex\Desktop\Studia\SEM4\Laptop  syf SEM4\Infa C#\LAB_10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\minex\Desktop\Studia\SEM4\Laptop  syf SEM4\Infa C#\LAB_10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\minex\Desktop\Studia\SEM4\Laptop  syf SEM4\Infa C#\LAB_10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\minex\Desktop\Studia\SEM4\Laptop  syf SEM4\Infa C#\LAB_10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\minex\Desktop\Studia\SEM4\Laptop  syf SEM4\Infa C#\LAB_10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\minex\Desktop\Studia\SEM4\Laptop  syf SEM4\Infa C#\LAB_10\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
